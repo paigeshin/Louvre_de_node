@@ -22,10 +22,18 @@
 
 [node webscraping ](https://www.notion.so/node-webscraping-e3d50bd94e844f20aebd0d1d1c895403)
 
+[Javasript Basic System](https://www.notion.so/node-js-basic-max-83cba4070d184385a3d3ae9064e1573b)
+
+[node.js low level server example](https://www.notion.so/Node-js-low-level-Basic-Server-b1355e437dc44220b5d690d28c3d3c9b)
+
+[express in detail](https://www.notion.so/express-in-detail-9a26c4e485074e38bf4f20e40e7f5084)
+
 # Common
 
 
+[Javascript Basic Syntax](https://www.notion.so/Javascript-Basics-ES6-cead68ceb5e64df8ba1b562384069eee)
 
+[Javascript debugging & Error Types](https://www.notion.so/Javascript-Node-js-Tools-28b650d5e6f84141ab697e5b6f691e31)
 
 # Debugging
 
