@@ -6,6 +6,8 @@
 
 # Backend
 
+[Node.js Dynamic Routes ](https://www.notion.so/Node-js-Dynamic-Routes-8baa1ea9de2c4bff9ea409fc12cff1d2)
+
 [Node, module exports](https://www.notion.so/Node-the-way-of-module-exports-1077df2e27e3424c8e0e43b875ae06ff)
 
 [node.js express MVC pattern](https://www.notion.so/node-express-MVC-Pattern-d53eb63b06c847f29a1c2bbfb3f10c7d)
@@ -33,6 +35,13 @@
 [express in detail](https://www.notion.so/express-in-detail-9a26c4e485074e38bf4f20e40e7f5084)
 
 [Working with express in detail, path, middleware, routes, send files](https://www.notion.so/Working-with-express-in-detail-path-middleware-routes-send-files-4fc6357e5aa64650ba205424ace4eb0f)
+
+# MYSQL 
+
+[Node.js using mysql2, raw version](https://www.notion.so/Node-js-using-mysql2-raw-version-ac1179f229d34358bd1a4e05be8a9092)
+
+# General
+[sql vs nosql](https://www.notion.so/sql-vs-Nosql-a56c1b97a9984f0f89ba1e99cb23e966)
 
 # Template Engine
 
