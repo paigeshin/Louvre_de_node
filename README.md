@@ -1,10 +1,15 @@
 # Louvre_de_javascript
 
-# Frontend
-
-
 
 # Backend
+
+[node.js mongo basic CRUD Model](https://www.notion.so/node-js-mongo-basic-CRUD-Model-4739afde1f9b48a6b7e6ca439b1f9762)
+
+[node.js mongo basic code implementation](https://www.notion.so/node-js-mongo-basic-code-implementation-575fc9a096c24b3e90d87e98222e2e84)
+
+[Mongo + Node Basic ](https://www.notion.so/Mongo-Node-Basic-1bf5c3753b1441b3a9ce4b770bad84e6)
+
+[Atlas & Mongo Installation ](https://www.notion.so/Atlas-Mongo-Installation-c3dc01a0b736479ea1813dded6d233cb)
 
 [Node.js Dynamic Routes ](https://www.notion.so/Node-js-Dynamic-Routes-8baa1ea9de2c4bff9ea409fc12cff1d2)
 
