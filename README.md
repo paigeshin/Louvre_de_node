@@ -3,14 +3,6 @@
 
 # Backend
 
-[node.js mongo basic CRUD Model](https://www.notion.so/node-js-mongo-basic-CRUD-Model-4739afde1f9b48a6b7e6ca439b1f9762)
-
-[node.js mongo basic code implementation](https://www.notion.so/node-js-mongo-basic-code-implementation-575fc9a096c24b3e90d87e98222e2e84)
-
-[Mongo + Node Basic ](https://www.notion.so/Mongo-Node-Basic-1bf5c3753b1441b3a9ce4b770bad84e6)
-
-[Atlas & Mongo Installation ](https://www.notion.so/Atlas-Mongo-Installation-c3dc01a0b736479ea1813dded6d233cb)
-
 [Node.js Dynamic Routes ](https://www.notion.so/Node-js-Dynamic-Routes-8baa1ea9de2c4bff9ea409fc12cff1d2)
 
 [Node, module exports](https://www.notion.so/Node-the-way-of-module-exports-1077df2e27e3424c8e0e43b875ae06ff)
@@ -40,6 +32,18 @@
 [express in detail](https://www.notion.so/express-in-detail-9a26c4e485074e38bf4f20e40e7f5084)
 
 [Working with express in detail, path, middleware, routes, send files](https://www.notion.so/Working-with-express-in-detail-path-middleware-routes-send-files-4fc6357e5aa64650ba205424ace4eb0f)
+
+# Mongo
+
+[Mongoose Basic](https://www.notion.so/Mongoose-Basic-57f5dc7086ba43b09bf1ebca42341d0b)
+
+[node.js mongo basic CRUD Model](https://www.notion.so/node-js-mongo-basic-CRUD-Model-4739afde1f9b48a6b7e6ca439b1f9762)
+
+[node.js mongo basic code implementation](https://www.notion.so/node-js-mongo-basic-code-implementation-575fc9a096c24b3e90d87e98222e2e84)
+
+[Mongo + Node Basic ](https://www.notion.so/Mongo-Node-Basic-1bf5c3753b1441b3a9ce4b770bad84e6)
+
+[Atlas & Mongo Installation ](https://www.notion.so/Atlas-Mongo-Installation-c3dc01a0b736479ea1813dded6d233cb)
 
 # MYSQL 
 
