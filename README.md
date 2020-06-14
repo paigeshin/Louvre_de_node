@@ -3,6 +3,12 @@
 
 # Backend
 
+
+
+[Express Session document on git](https://github.com/expressjs/session )
+
+[Express session document on NPM](https://www.notion.so/20-06-14-2173eb962e024b41b91a1efe8e06e0ba)
+
 [Node.js Dynamic Routes ](https://www.notion.so/Node-js-Dynamic-Routes-8baa1ea9de2c4bff9ea409fc12cff1d2)
 
 [Node, module exports](https://www.notion.so/Node-the-way-of-module-exports-1077df2e27e3424c8e0e43b875ae06ff)
@@ -34,6 +40,10 @@
 [Working with express in detail, path, middleware, routes, send files](https://www.notion.so/Working-with-express-in-detail-path-middleware-routes-send-files-4fc6357e5aa64650ba205424ace4eb0f)
 
 # Mongo
+
+[Mongoose document on git](https://github.com/Automattic/mongoose)
+
+[Mongoose official document](https://mongoosejs.com/docs/guide.html)
 
 [Mongoose Basic](https://www.notion.so/Mongoose-Basic-57f5dc7086ba43b09bf1ebca42341d0b)
 
