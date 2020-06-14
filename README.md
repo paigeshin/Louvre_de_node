@@ -82,3 +82,7 @@
 [504 Error app engine, node](https://www.notion.so/504-Error-app-engine-node-d9a26796b6744752a19eecebfd05eb61)
 
 
+
+# Lectures
+
+[Node Complete Guide](https://www.notion.so/NodeJS-The-Complete-Guide-d347014dbbc847199d4ec4a60a700856)
