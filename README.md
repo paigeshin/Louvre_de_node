@@ -1,9 +1,17 @@
 # Louvre_de_javascript
 
+# Modules
+
+[node.js bcrypt.js](https://www.notion.so/node-js-bcrypt-js-8ccf586943c34062bf9a3b6472d203c1)
+
+[node.js CSRF protection](https://www.notion.so/node-js-CSRF-protection-5cd1e81b98ba4150a98e0c0155c8acc2)
+
+[Node.js flash message](https://www.notion.so/node-js-flash-message-8ea3588188df4806a92436eb3b0c087d)
+
 
 # Backend
 
-
+[Node.js middleware example](https://www.notion.so/Node-js-middleware-example-372e455b87074ef488431406bf168d43)
 
 [Express Session document on git](https://github.com/expressjs/session )
 
