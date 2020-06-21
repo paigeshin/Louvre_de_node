@@ -1,5 +1,12 @@
 # Louvre_de_javascript
 
+# Checklist 
+
+- express session
+- express session store
+- bcrypt.js
+- CSRF Protection
+
 # Modules
 
 [node.js bcrypt.js](https://www.notion.so/node-js-bcrypt-js-8ccf586943c34062bf9a3b6472d203c1)
@@ -10,6 +17,16 @@
 
 
 # Backend
+
+[Node.js sending email using sending grid](https://www.notion.so/Node-js-sending-email-using-sending-grid-26067d3a85fc49b0a3c18dc480be74ff)
+
+[node.js Reset password ](https://www.notion.so/node-js-Reset-password-a901e3dfda6445f7a0ed7c87123a0e24)
+
+[Node.js restrict permission (Authorization)](https://www.notion.so/Node-js-restrict-permission-Authorization-84cba96f1dd34a718b4470547ca0b528)
+
+[node.js Advanced Authentication](https://www.notion.so/node-js-Advanced-Authentication-7eba8b9c68954c35a41ec9ee3e6f5482)
+
+[Node.js User Authentication](https://www.notion.so/Node-js-User-Authentication-0d315d35783b4b988e714cbb624cab96)
 
 [Node.js middleware example](https://www.notion.so/Node-js-middleware-example-372e455b87074ef488431406bf168d43)
 
