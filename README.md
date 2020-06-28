@@ -9,6 +9,8 @@
 
 # Modules
 
+[Express Validator](https://www.notion.so/Express-validator-83500d3ae944417abcdc7ba269d2716b)
+
 [node.js bcrypt.js](https://www.notion.so/node-js-bcrypt-js-8ccf586943c34062bf9a3b6472d203c1)
 
 [node.js CSRF protection](https://www.notion.so/node-js-CSRF-protection-5cd1e81b98ba4150a98e0c0155c8acc2)
