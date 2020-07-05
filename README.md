@@ -9,6 +9,8 @@
 
 # Modules
 
+[ajax, fetch without query](https://www.notion.so/Ajax-fetch-without-jquery-7f77e109ab8c4f70a86f6a30ad2b18f8)
+
 [Express Validator](https://www.notion.so/Express-validator-83500d3ae944417abcdc7ba269d2716b)
 
 [node.js bcrypt.js](https://www.notion.so/node-js-bcrypt-js-8ccf586943c34062bf9a3b6472d203c1)
@@ -20,6 +22,10 @@
 [Node.js sending email using sending grid](https://www.notion.so/Node-js-sending-email-using-sending-grid-26067d3a85fc49b0a3c18dc480be74ff)
 
 # Backend
+
+[ajax, fetch without query](https://www.notion.so/Ajax-fetch-without-jquery-7f77e109ab8c4f70a86f6a30ad2b18f8)
+
+[Pagination](https://www.notion.so/Node-pagination-10cbd2cf2cf9401eb2e2353208266cc2)
 
 [File upload & Downloads node.js](https://www.notion.so/File-upload-Downloads-node-js-921844434ef549bc9bfc77b3f744a3b2)
 
