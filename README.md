@@ -6,8 +6,27 @@
 - express session store
 - bcrypt.js
 - CSRF Protection
+- button debouncing
+- CORS error prevention
+- Global error handler (middleware)
+- file manager
+- email third party 
+- pagination
+- Input Validation (express validator)
+- JWT (if it's just restful api server)
+
 
 # Modules
+
+[Node.js jwt](https://www.notion.so/Node-js-jwt-afc932a512fc46f9a8136a6478efd93b)
+
+[Handle CORS error](https://www.notion.so/Handle-CORS-error-ad6248da4bfc403bb5186c7fff2e9a62)
+
+[REST API Basic](https://www.notion.so/REST-API-Basic-88b4fa06243e45f58345fe3bbeb243ac)
+
+[Payment Process](https://www.notion.so/Node-js-Error-Handling-2e5aee4ae2bf442d9eaf3e69a5e99bfa)
+
+[Erorr handling](https://www.notion.so/Node-js-Error-Handling-2e5aee4ae2bf442d9eaf3e69a5e99bfa)
 
 [ajax, fetch without query](https://www.notion.so/Ajax-fetch-without-jquery-7f77e109ab8c4f70a86f6a30ad2b18f8)
 
@@ -140,3 +159,7 @@
 # Grammar
 
 [Javascript replace all regular expression](https://www.notion.so/Javascript-replace-all-regular-expression-132212ad28dd43a6af47338f9b42e882)
+
+# Template
+
+[Node.js REST API Template](https://www.notion.so/Node-js-REST-API-Template-f032f654b00d4eceb188c5e95a77619a)
