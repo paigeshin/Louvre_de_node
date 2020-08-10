@@ -126,6 +126,8 @@
 
 [Node.js using mysql2, raw version](https://www.notion.so/Node-js-using-mysql2-raw-version-ac1179f229d34358bd1a4e05be8a9092)
 
+[Sequelize](https://github.com/paigeshin/node.js-orm-sequelize-sql-mysql)
+
 # General
 [sql vs nosql](https://www.notion.so/sql-vs-Nosql-a56c1b97a9984f0f89ba1e99cb23e966)
 
