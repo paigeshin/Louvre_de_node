@@ -15,6 +15,16 @@
 - Input Validation (express validator)
 - JWT (if it's just restful api server)
 
+# Template
+
+[Classic Node Server](https://github.com/paigeshin/my_classic_node_server_template)
+
+[REST API Server Template, using only promises](https://github.com/paigeshin/MY_REST_API_TEMPLATE)
+
+[REST API SERVER Template, using only async-await](https://github.com/paigeshin/REST_API_NODE_ASYNC_AWAIT)
+
+[WEB Socket Template](https://github.com/paigeshin/websocket_node_rest_api_template)
+
 
 # Modules
 
