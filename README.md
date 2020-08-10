@@ -171,3 +171,7 @@
 [Web Socket - notion](https://www.notion.so/node-websocket-rest-api-template-935a1c69f0264f3bafa55123e82ece63)
 
 [Web Socket - github](https://github.com/paigeshin/websocket_node_rest_api_template)
+
+# File
+
+[Delete local file, node.js](https://www.notion.so/delete-local-file-node-js-34eabd48e95f4f878ea228d2a06ea1f9)
