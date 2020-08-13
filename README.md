@@ -170,6 +170,8 @@
 
 # Grammar
 
+[javascript about await](https://www.notion.so/javascript-about-await-2ee12ec510394da680396189ed1a4a31)
+
 [Async Await](https://www.notion.so/Javascript-node-js-Async-Await-ab3251a3c19644d3966cd8559fcdd15f)
 
 [Javascript replace all regular expression](https://www.notion.so/Javascript-replace-all-regular-expression-132212ad28dd43a6af47338f9b42e882)
