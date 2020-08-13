@@ -25,6 +25,8 @@
 
 [WEB Socket Template](https://github.com/paigeshin/websocket_node_rest_api_template)
 
+[GraphQL Template](https://github.com/paigeshin/node_js_graphql_template)
+
 
 # Modules
 
