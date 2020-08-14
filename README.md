@@ -191,3 +191,11 @@
 # File
 
 [Delete local file, node.js](https://www.notion.so/delete-local-file-node-js-34eabd48e95f4f878ea228d2a06ea1f9)
+
+# vsCode for Javascript
+
+[vsCode Tutorial](https://www.notion.so/vsCode-Tutorial-75e4030de93f4bd0a8a2b1826bee4ea3)
+
+[vsCode Extension Recommendation](https://www.notion.so/vsCode-Extension-Recommendation-1738a5b211134cf785745d3ed745553d)
+
+[vsCode Debugging](https://www.notion.so/vsCode-Debugging-357435e407ee4d1695eb2d8b31caf5c7)
