@@ -5,15 +5,18 @@
 - express session
 - express session store
 - bcrypt.js
-- CSRF Protection
-- button debouncing
-- CORS error prevention
+- CSRF Protection by `curf`
+- CORS error prevention => Set Header Properly
 - Global error handler (middleware)
-- file manager
-- email third party 
+- file manager by `multer`
+- email third party `your choice`
 - pagination
-- Input Validation (express validator)
-- JWT (if it's just restful api server)
+- Input Validation `express-validator` or `validator` 
+- JWT (if it's just restful api server) by `jsonwebtoken`
+
+- Secure Header by `helmet`
+- Asset Compression by `compression`
+- Logging by `morgan`
 
 # Preparing the code for Production (Checklist)
 
