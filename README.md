@@ -38,6 +38,8 @@
 ### Use SSL/TLS
 ⇒ Encrypt data in transit
 
+ℹ️ Often, `Add Asset Compression` `Configure Logging` `Use SSL/TLS` are handled by the Hosting Provider
+
 # Template
 
 [Classic Node Server](https://github.com/paigeshin/my_classic_node_server_template)
@@ -178,6 +180,7 @@
 
 # Common
 
+[Package.json, script, explained, recap](https://www.notion.so/Package-json-script-explained-recap-361a6aec6dc64764bc976c26628b80db)
 
 [Javascript Basic Syntax](https://www.notion.so/Javascript-Basics-ES6-cead68ceb5e64df8ba1b562384069eee)
 
@@ -186,7 +189,6 @@
 # Debugging
 
 [504 Error app engine, node](https://www.notion.so/504-Error-app-engine-node-d9a26796b6744752a19eecebfd05eb61)
-
 
 
 # Lectures
@@ -222,3 +224,33 @@
 [vsCode Extension Recommendation](https://www.notion.so/vsCode-Extension-Recommendation-1738a5b211134cf785745d3ed745553d)
 
 [vsCode Debugging](https://www.notion.so/vsCode-Debugging-357435e407ee4d1695eb2d8b31caf5c7)
+
+# Deployment
+
+[Deployment](https://www.notion.so/Deployment-08c72ea4b15c4cce81e78bfe2c605122)
+
+[Setting Secure Response Headers with Helmet](https://www.notion.so/Setting-Secure-Response-Headers-with-Helmet-bafd3ef5d5144032926a97b420dcfb82)
+
+[Configuring Env Variables with nodemon](https://www.notion.so/Configuring-Env-Variables-with-nodemon-18b194e9c3074c488c148cf3ad2b9bca)
+
+[Optimize asset with compression](https://www.notion.so/Optimize-asset-with-compression-70b658b5565447a682292f411c830d9d)
+
+[Set up Request Logging with Morgan](https://www.notion.so/Set-up-Request-Logging-with-Morgan-a4cb2565799f4746a9dfb9d01bd0ecc1)
+
+[SSL/TLS manual installation](https://www.notion.so/SSL-TLS-manual-installation-d65fff489a3e47b9b9901153f1b64132)
+
+[How Hosting Provider works internally?](https://www.notion.so/How-Hosting-Provider-works-internally-fa45e31ae27d4153a28a686937eab464)
+
+[Heroku Tutorial](https://www.notion.so/Heroku-Tutorial-e72eae26f2434cada9351a2e9d6b51b0)
+
+# Atlas Configuration
+
+1. White list IP Address
+2. Create User
+3. Connect to Cluster
+4. Use Mongo Compass
+
+# Node Default Module 
+
+- path
+- fs
