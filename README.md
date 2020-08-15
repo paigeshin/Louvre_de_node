@@ -15,6 +15,29 @@
 - Input Validation (express validator)
 - JWT (if it's just restful api server)
 
+# Preparing the code for Production (Checklist)
+
+### Use Environment Variables
+⇒ Avoid hard-coded values in your code
+
+### Use Production API Keys
+⇒ Don't use that testing Stripe API
+
+### Reduce Error Output Details
+⇒ Don't send sensitive info to your users 
+
+### Set Secure Response Headers
+⇒ Implement best practices
+
+### Add Asset Compression
+⇒ Reduce Response Size 
+
+### Configure Logging
+⇒ Stay up to date about what's happening
+
+### Use SSL/TLS
+⇒ Encrypt data in transit
+
 # Template
 
 [Classic Node Server](https://github.com/paigeshin/my_classic_node_server_template)
