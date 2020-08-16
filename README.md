@@ -282,6 +282,14 @@
 [Node & TypeScript Basic Rest API Example on notion](https://www.notion.so/Node-TypeScript-Basic-Rest-API-Example-45d4e4940a484c0186bd91a4fc9599f5))
 
 
+# Management
+
+[node.js update to lastest stable version on MacOS](https://www.notion.so/node-js-update-to-lastest-stable-version-5ec3e53582934c80a361044b78f6fdbd)
+
+# Study Direction
+
+[Node.js Next Subject ](https://www.notion.so/Node-js-Next-Subject-66e6ca1769af433f981b80e124d50294)
+
 # Node Default Module 
 
 - path
