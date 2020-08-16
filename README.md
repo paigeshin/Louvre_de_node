@@ -6,17 +6,34 @@
 - express session store
 - bcrypt.js
 - CSRF Protection by `curf`
-- CORS error prevention => Set Header Properly
 - Global error handler (middleware)
-- file manager by `multer`
 - email third party `your choice`
+- flash-message
 - pagination
 - Input Validation `express-validator` or `validator` 
+- file manager by `multer`
+- CORS error prevention => Set Header Properly
 - JWT (if it's just restful api server) by `jsonwebtoken`
-
 - Secure Header by `helmet`
 - Asset Compression by `compression`
 - Logging by `morgan`
+
+- Testing Modules
+    - `mocha` to execute the test code
+    - `chai` to validate the test outcome
+    - `sinon` to manage side effects / external dependencies
+
+
+# Atlas Configuration
+
+1. White list IP Address
+2. Create User
+3. Connect to Cluster
+4. Use Mongo Compass
+
+# NPM
+
+[npm & Node as a Build Tool](https://www.notion.so/npm-Node-as-a-Build-Tool-614b1b7ea2e14130bb634caa0ee95a98)
 
 # Preparing the code for Production (Checklist)
 
@@ -246,14 +263,19 @@
 
 [Heroku Tutorial](https://www.notion.so/Heroku-Tutorial-e72eae26f2434cada9351a2e9d6b51b0)
 
-# Atlas Configuration
+# Next Gen
 
-1. White list IP Address
-2. Create User
-3. Connect to Cluster
-4. Use Mongo Compass
+[Modern JavaScript & Node.js, ESModule and CorePromise](https://www.notion.so/Modern-JavaScript-Node-js-ESModule-and-CorePromise-86e73e700c6b4335aeb70a396f65c02b)
+
+# Unit Test
+
+[Testing - Automated code Testing](https://www.notion.so/Testing-Automated-code-Testing-20fd00cf9a0c4edc98f7216b3b30c326)
+
+[Unit Test on github](https://github.com/paigeshin/node_js_unit_test_example)
 
 # Node Default Module 
 
 - path
 - fs
+- url
+- crypto
