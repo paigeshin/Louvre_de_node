@@ -289,6 +289,25 @@
 - url
 - crypto
 
+# MongoDB Theory (Mostly with Shell)
+
+[What is Mongo DB?](https://www.notion.so/What-is-Mongo-DB-8640491284bb42b7925c2d5fb885a558)
+
+[Install MongoDB locally](https://www.notion.so/Install-MongoDB-locally-0767c3f9d3d74f1592455ddbdc946502)
+
+[Basic Shell Commands - shell](https://www.notion.so/Basic-Shell-Commands-shell-d16705cc81f644608cfe83e55b946ce0)
+
+[MongoDB Shell vs Driver](https://www.notion.so/MongoDB-Shell-vs-Driver-5aeda8285713499fb108ab7b756e80fa)
+
+[Working with MongoDB](https://www.notion.so/Working-with-MongoDB-028faadc7d054f4686f0aa5e531d6c6e)
+
+[MongoDB Outline](https://www.notion.so/MongoDB-Outline-9eacaaefce1e4565ba980d0a26c95986)
+
+[Documents & CRUD Basics - shell](https://www.notion.so/Documents-CRUD-Basics-shell-8f4ba0ec52004182a35610d47a0698ea)
+
+[CRUD Operations & MongoDB - Shell](https://www.notion.so/CRUD-Operations-MongoDB-Shell-61b345cb2c9743eca509f4a5cf2aae6b)
+
+
 # Maximillian, Node.js Bootcamp index
 
 [node.js Basic](https://www.notion.so/node-js-Basic-ded70597132f4a23a86e94b70b953937)
