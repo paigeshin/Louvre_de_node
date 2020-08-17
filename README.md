@@ -315,6 +315,8 @@
 
 [CRUD Operations & MongoDB - Shell](https://www.notion.so/CRUD-Operations-MongoDB-Shell-61b345cb2c9743eca509f4a5cf2aae6b)
 
+[Mongo Shell Comprehensive Basic and its methods, it covers the essentail CRUD](https://www.notion.so/Mongo-Shell-Comprehensive-Basic-and-its-methods-it-covers-the-essentail-CRUD-f22e061ab5034e96a715c51054b499cf)
+
 
 # Maximillian, Node.js Bootcamp index
 
