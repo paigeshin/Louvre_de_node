@@ -276,9 +276,11 @@
 # TypeScript
 
 [Typescript basic on git](https://github.com/paigeshin/typescript_tutorial)
+
 [Typescript basic on notion](https://www.notion.so/Typescript-Tutorial-4c0adb4aadab4c01875017a0a250e598)
 
 [Node & TypeScript Basic Rest API Example on git](https://github.com/paigeshin/node-typescript-basic-REST-API-example)
+
 [Node & TypeScript Basic Rest API Example on notion](https://www.notion.so/Node-TypeScript-Basic-Rest-API-Example-45d4e4940a484c0186bd91a4fc9599f5))
 
 
