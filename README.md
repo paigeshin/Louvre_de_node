@@ -319,6 +319,15 @@
 
 [Mongo Shell Comprehensive Basic and its methods, it covers the essentail CRUD](https://www.notion.so/Mongo-Shell-Comprehensive-Basic-and-its-methods-it-covers-the-essentail-CRUD-f22e061ab5034e96a715c51054b499cf)
 
+# Mongo DB Important Subjects
+
+[Mongo DB Datatype, on louvre de node and cs](https://www.notion.so/Mongo-DB-Datatype-on-louvre-de-node-and-cs-2aa7c1c577074b79af7e71c3dddd1f9d)
+
+[Data Schemas & Data Modelling, on louvre de cs and node](https://www.notion.so/Data-Schemas-Data-Modelling-on-louvre-de-cs-and-node-b63268ef850b4d37baf89dff59d1f988)
+
+[NOSQL Relations Real Life Examples, on node and cs](https://www.notion.so/NOSQL-Relations-Real-Life-Examples-on-node-and-cs-18c080c29ffb4d75a53a53f6f513a7df)
+
+[DataType Limits](https://www.notion.so/DataType-Limits-77a6543c842f402ba6bfbf0317340997)
 
 # Maximillian, Node.js Bootcamp index
 
