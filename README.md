@@ -381,6 +381,8 @@
 
 [Data Modelling & Structuring - Things to Consider ](https://www.notion.so/Data-Modelling-Structuring-Things-to-Consider-f7e06160bb374c52adeeb333d3a2b285)
 
+[Mongo Import Data from JSON](https://www.notion.so/Mongo-Import-Data-from-JSON-804d1c67612a439db27c1bf440f4f61e)
+
 # Mongo DB Data Structuring, DB 설계
 
 [Schemas & Relations: How to Structure Documents, practice](https://www.notion.so/Schemas-Relations-How-to-Structure-Documents-practice-2bdb11d084fa4a6cbdb14f31e7c98e77)
@@ -400,6 +402,10 @@
 [Data Schemas & Data Modelling, Essential Questions](https://www.notion.so/Data-Schemas-Data-Modelling-Essential-Questions-295465dd4c184df7aaa1ba5a04ccc5da)
 
 [NOSQL Relations Real Life Examples](https://www.notion.so/NOSQL-Relations-Real-Life-Examples-20bbe25e58fb48cf9e3049c7a5c351a3)
+
+# Mongo CRUD Deep
+
+[CREATE, Diving Deeper Into CREATE](https://www.notion.so/CREATE-Diving-Deeper-Into-CREATE-a605e329d30c4d91b45ddd26b5321c8a)
 
 # Maximillian, Node.js Bootcamp index
 
