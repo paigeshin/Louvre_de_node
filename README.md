@@ -221,6 +221,8 @@
 
 # Grammar
 
+[javascript - Call async/await functions in parallel - Stack Overflow](https://stackoverflow.com/questions/35612428/call-async-await-functions-in-parallel)
+
 [javascript about await](https://www.notion.so/javascript-about-await-2ee12ec510394da680396189ed1a4a31)
 
 [Async Await](https://www.notion.so/Javascript-node-js-Async-Await-ab3251a3c19644d3966cd8559fcdd15f)
@@ -315,6 +317,23 @@
 - fs
 - url
 - crypto
+
+# Push Mesasge - APN 
+
+[node - swift, git repository](https://github.com/paigeshin/swift-apn-node-pushmessage-using-npm-package)
+
+[node - apn](https://www.notion.so/node-apn-c40e0cd139d443f7a995dfa22ef09369)
+
+[https://solarianprogrammer.com/2017/02/14/ios-remote-push-notifications-nodejs-backend/](https://solarianprogrammer.com/2017/02/14/ios-remote-push-notifications-nodejs-backend/)
+
+[https://www.npmjs.com/package/apn](https://www.npmjs.com/package/apn)
+
+[https://levelup.gitconnected.com/send-push-notification-through-apns-using-node-js-7427a01662a2](https://levelup.gitconnected.com/send-push-notification-through-apns-using-node-js-7427a01662a2)
+
+[https://developer.apple.com/library/archive/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/APNSOverview.html](https://developer.apple.com/library/archive/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/APNSOverview.html)
+
+[https://developer.apple.com/library/archive/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/CreatingtheNotificationPayload.html](https://developer.apple.com/library/archive/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/CreatingtheNotificationPayload.html)
+
 
 # Mongo Configuration
 
