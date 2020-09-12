@@ -441,6 +441,8 @@
 
 [Reading Documents with Operators (Query & Projection Operators)](https://www.notion.so/Reading-Documents-with-Operators-Query-Projection-Operators-1f85864a56b24132b8bdd820c06f2324)git a
 
+[Update Operations](https://www.notion.so/Update-Operations-b2b7b4c6c78d4805a080d49682cd2447)
+
 # Maximillian, Node.js Bootcamp index
 
 [node.js Basic](https://www.notion.so/node-js-Basic-ded70597132f4a23a86e94b70b953937)
