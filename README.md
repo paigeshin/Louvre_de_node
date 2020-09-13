@@ -443,6 +443,10 @@
 
 [Update Operations](https://www.notion.so/Update-Operations-b2b7b4c6c78d4805a080d49682cd2447)
 
+# Mongo Index
+
+[Working with Indexes](https://www.notion.so/Working-with-Indexes-784560350e5e40308f34b8180ebd7236)
+
 # Maximillian, Node.js Bootcamp index
 
 [node.js Basic](https://www.notion.so/node-js-Basic-ded70597132f4a23a86e94b70b953937)
