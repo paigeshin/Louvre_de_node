@@ -429,5 +429,10 @@
 [Louvre_de_mongo](https://github.com/paigeshin/Louvre_de_mongo)
 
 
+# Articles
 
+[ID token vs Access token](https://medium.com/@nilasini/id-token-vs-access-token-17e7dd622084)
 
+[About json schema](https://json-schema.org/understanding-json-schema/structuring.html)
+
+[Amazon API Gateway mapping template](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-mapping-template-reference.html)
