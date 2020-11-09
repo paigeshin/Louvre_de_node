@@ -436,3 +436,5 @@
 [About json schema](https://json-schema.org/understanding-json-schema/structuring.html)
 
 [Amazon API Gateway mapping template](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-mapping-template-reference.html)
+
+[Amazon Cognito Integration for web, iOS and android](https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-integrate-apps.html)
