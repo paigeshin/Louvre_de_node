@@ -446,3 +446,5 @@
 [Lambda code example on github](https://github.com/paigeshin/Louvre_de_node)
 
 [Running Node/Express Apps via Amazon Lambda + API Gateway](https://github.com/awslabs/aws-serverless-express)
+
+[MPA node-express application practical example](https://github.com/paigeshin/MPA_Node_Express_Serverless_Example)
