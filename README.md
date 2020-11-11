@@ -444,3 +444,5 @@
 # Amazon Lambda
 
 [Lambda code example on github](https://github.com/paigeshin/Louvre_de_node)
+
+[Running Node/Express Apps via Amazon Lambda + API Gateway](https://github.com/awslabs/aws-serverless-express)
