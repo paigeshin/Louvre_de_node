@@ -449,4 +449,50 @@
 
 [MPA node-express application practical example](https://github.com/paigeshin/MPA_Node_Express_Serverless_Example)
 
-[serverless-application-model, github](https://github.com/aws/serverless-application-model) ⇒ This repository is officially published by AWS ]
+[SAM official repository, serverless-application-model, github](https://github.com/aws/serverless-application-model) ⇒ This repository is officially published by AWS ]
+
+[Local Stack official repository, this library enables local test in your local machine](https://github.com/localstack/localstack)
+
+# Amazon Serverless
+
+[Lamda Additional Subject](https://www.notion.so/Lamda-Additional-Subject-5d8351cb561e479bb66dbb22921277da)
+
+[Getting Started](https://www.notion.so/Getting-Started-9750a30f5c294274a50bcce9673ec6cd)
+
+[Detailed Explanation about AWS Service](https://www.notion.so/Detailed-Explanation-about-AWS-Service-9b0fe73375a44788a1c146494579248a)
+
+[Getting Started with AWS ](https://www.notion.so/Getting-Started-with-AWS-d1803b234ebd4f0685ea82949ddae066)
+
+[IAM Service](https://www.notion.so/IAM-Service-3415681eec0746989e42c679639ad786)
+
+[The Core Serverless Services ](https://www.notion.so/The-Core-Serverless-Services-3462e4bc3cef4c0a84675402a42598ec)
+
+[Creating an API with API Gateway, Part - 1 ](https://www.notion.so/Creating-an-API-with-API-Gateway-Part-1-807c6df5663c4a1cad8c8a8230aebf50)
+
+[Creating an API with API Gateway, Part - 2](https://www.notion.so/Creating-an-API-with-API-Gateway-Part-2-766edba60f234ebdbb929316831a165c)
+
+[Data Storage with DynamoDB](https://www.notion.so/Data-Storage-with-DynamoDB-32e6b0613bf84f088645778de0d95710)
+
+[Authenticating users with Cognito and API Gateway Authorizers PART - 1 ](https://www.notion.so/Authenticating-users-with-Cognito-and-API-Gateway-Authorizers-PART-1-b970635e5423403f94bbc92b76c3ad46)
+
+[Authenticating users with Cognito and API Gateway Authorizers PART - 2](https://www.notion.so/Authenticating-users-with-Cognito-and-API-Gateway-Authorizers-PART-2-fc83c627ea1f4f09b2107a93d3c32205)
+
+[IAM + Cognito + APIGateway + Lambda Recap](https://www.notion.so/IAM-Cognito-APIGateway-Lambda-Recap-86db11f484ef450b87c0dec907cfeefb)
+
+[Hosting a Serverless SPA, S3, CloudFront, Route53](https://www.notion.so/Hosting-a-Serverless-SPA-S3-CloudFront-Route53-b3e2aafe7f3f44cc91213fa6459bd05b)
+
+[Documenting](https://www.notion.so/Documenting-0e2d4eb3c70e4147b1e888dbb324739d)
+
+[Other Lambda Triggers](https://www.notion.so/Other-Lambda-Triggers-9536dbb42f724efaaac1cee3308c99dc)
+
+[Running Node/Express Apps via Lambda + API Gateway ](https://www.notion.so/Running-Node-Express-Apps-via-Lambda-API-Gateway-737f87966c784c23a1314b14a53b2038)
+
+[Serverless Apps and Security](https://www.notion.so/Serverless-Apps-and-Security-c9681527951f426cbf17d62bb4214c84)
+
+[Serverless Framework (CLI Environment)](https://www.notion.so/Serverless-Framework-CLI-Environment-47b6269173ac471bb973a87f954d3704)
+
+[SAM (Serverless Application Model)](https://www.notion.so/SAM-Serverless-Application-Model-aa0c33b026824ee7ae352e26d039617c)
+
+[Testing Serverless Apps with localstack](https://www.notion.so/Testing-Serverless-Apps-with-localstack-33b8ae7423ad4bccb80e56c9f3667df4)
+
+[Other Useful AWS Services](https://www.notion.so/Other-Useful-AWS-Services-c9ac25dce83044b6bcd465fe9a05105a)
