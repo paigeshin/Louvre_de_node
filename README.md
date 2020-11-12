@@ -448,3 +448,5 @@
 [Running Node/Express Apps via Amazon Lambda + API Gateway](https://github.com/awslabs/aws-serverless-express)
 
 [MPA node-express application practical example](https://github.com/paigeshin/MPA_Node_Express_Serverless_Example)
+
+[serverless-application-model, github](https://github.com/aws/serverless-application-model) ⇒ This repository is officially published by AWS ]
