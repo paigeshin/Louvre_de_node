@@ -175,6 +175,8 @@
 
 # MYSQL 
 
+[Instgall MYSQL using homebrew on local](https://devyurim.github.io/data%20base/mysql/2018/08/13/mysql-1.html)
+
 [Node.js using mysql2, raw version](https://www.notion.so/Node-js-using-mysql2-raw-version-ac1179f229d34358bd1a4e05be8a9092)
 
 [Sequelize](https://github.com/paigeshin/node.js-orm-sequelize-sql-mysql)
