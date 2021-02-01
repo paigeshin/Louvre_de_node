@@ -334,6 +334,16 @@
 
 [puppeteer - craglist](https://www.notion.so/puppeteer-craglist-c1c4410071d743a1a8572834380cf1bf)
 
+[Basic Webscraping on git](https://github.com/paigeshin/node_webscrping_basic)
+
+[Basic Webscraping Puppetteer on git](https://github.com/paigeshin/node_webcrawling_puppeteer)
+
+[Webscraper with request & cheerio](https://www.notion.so/Webscraper-with-request-cheerio-9b21bc85c0e84069aed79cd313e3fc08)
+
+[When you are blocked, use proxy](https://www.notion.so/When-you-are-blocked-use-proxy-ccea4b173271475da06fa127fe7f42d4)
+
+[Parsing into CSV](https://www.notion.so/Parsing-into-CSV-7d33f62b6fa3455eb587d23bb7371f2a)
+
 # Push Mesasge - APN 
 
 [node - swift, git repository](https://github.com/paigeshin/swift-apn-node-pushmessage-using-npm-package)
