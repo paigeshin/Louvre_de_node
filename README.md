@@ -352,6 +352,36 @@
 
 [robot parser on git](https://github.com/paigeshin/node_webscraping_robot_parser)
 
+[Pagination ](https://www.notion.so/Pagination-fc083e8d1e82440593866bb2f9a30e52)
+
+[pagination on git](https://github.com/paigeshin/node_crawling_pagination)
+
+[Crawling websites with authentication on git](https://github.com/paigeshin/Node_Webscraping_CrawlAuthentication)
+
+[Scraping Sites with Authentication](https://www.notion.so/Scraping-Sites-with-Authentication-dd22a91a9c4b4dd89b8054e7faa3fa10)
+
+[Scraping a website with Cookie/Session Authentication and CSRF tokens on Git](https://github.com/paigeshin/node_webscraping_csrftoken-cookie)
+
+[Scraping a website with Cookie/Session Authentication and CSRF tokens](https://www.notion.so/Scraping-a-website-with-Cookie-Session-Authentication-and-CSRF-tokens-54b9f1625fd54e4eb0c6b8581b7b4ac9)
+
+[Nordstorm Hacking with API Key discovered on git](https://github.com/paigeshin/node_webscraping_nordstorm_hacking)
+
+[Nordstorm Hacking with API Key discovered](https://www.notion.so/Find-Secret-API-8aba2abbc2104b08a01cace6fc60c89c)
+
+[Nightmarejs on git](https://github.com/paigeshin/node_webscraping_nightmarejs)
+
+[Nightmare js, scrape IMDB](https://www.notion.so/Nightmare-js-scrape-IMDB-bce5e93ed00d4a5ea08f1a30fb410ec2)
+
+[AirBnb scraper, javascript rendered website with puppeteer on git](https://github.com/paigeshin/node_webscraping_javascript_rendered_website)
+
+[AirBnb scraper, javascript rendered website with puppeteer](https://www.notion.so/AirBnb-scraper-javascript-rendered-website-with-puppeteer-c394e41219c7464ba10ce742944c0a02)
+
+[Save data to mongoDB](https://www.notion.so/Save-data-to-mongoDB-dadfa2fd92cc41479ae27f0bd3bc4077)
+
+[Periodic Crawler](https://www.notion.so/Periodic-Crawler-34c7d82e5e7f4275a8ff53ee8b4e5910)
+
+[Puppeteer on heroku, use buildpack](https://www.notion.so/Puppeteer-on-heroku-use-buildpack-eabb742bfa784b04abc3379e449935cc)
+
 # Push Mesasge - APN 
 
 [node - swift, git repository](https://github.com/paigeshin/swift-apn-node-pushmessage-using-npm-package)
