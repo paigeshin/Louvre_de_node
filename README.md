@@ -344,6 +344,14 @@
 
 [Parsing into CSV](https://www.notion.so/Parsing-into-CSV-7d33f62b6fa3455eb587d23bb7371f2a)
 
+[Crawling with simple request](https://github.com/paigeshin/node_scraping_with_request)
+
+[Handling Network Problems](https://www.notion.so/Handling-Network-Problems-ee83e222bf3c46cd90f4a0c28a5fcf4e)
+
+[robot parser](https://www.notion.so/robots-txt-28d375be27794505b327ec5ce03c3707)
+
+[robot parser on git](https://github.com/paigeshin/node_webscraping_robot_parser)
+
 # Push Mesasge - APN 
 
 [node - swift, git repository](https://github.com/paigeshin/swift-apn-node-pushmessage-using-npm-package)
