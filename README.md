@@ -382,6 +382,16 @@
 
 [Puppeteer on heroku, use buildpack](https://www.notion.so/Puppeteer-on-heroku-use-buildpack-eabb742bfa784b04abc3379e449935cc)
 
+[webcrawling, infinite scrolling on git](https://github.com/paigeshin/node_webscraping_infinite_scrolling_site)
+
+[Infinite Scrolling](https://www.notion.so/Infinite-Scrolling-53e2f48f6faf434d976d4773759032dd)
+
+[Facebook Scrolling using glitch](https://www.notion.so/Facebook-Scrolling-using-glitch-ce951bacd0c949a187ce0c3d5b5ba4b2)
+
+[Facebook crawling using their own glitch on git](https://github.com/paigeshin/node_webscraping_facebook)
+
+
+
 # Push Mesasge - APN 
 
 [node - swift, git repository](https://github.com/paigeshin/swift-apn-node-pushmessage-using-npm-package)
