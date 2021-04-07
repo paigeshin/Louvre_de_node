@@ -591,3 +591,7 @@
 [Fetch firestore from client](https://www.notion.so/Fetch-firestore-from-client-a8487667305f43a682f74f3f1a161f55)
 
 [Firebase Triggers for logging](https://www.notion.so/Firebase-Triggers-for-logging-4355a54a25814e1681355663edb25605)
+
+# Firestore
+
+[Firestore Rules](https://www.notion.so/Firestore-Rules-445fd4e4fd8445299743783f2e164337)
