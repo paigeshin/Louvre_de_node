@@ -72,6 +72,21 @@
 
 [GraphQL Template](https://github.com/paigeshin/node_js_graphql_template)
 
+[Node-Typescript Basic Project](https://github.com/paigeshin/TS_TUTORIAL/tree/master/node_ts)
+
+[Rest API based on Interface](https://github.com/paigeshin/node-typescript-basic-REST-API-example/blob/master/src/routes/todos.ts)
+
+[Max Node graphql Template](https://github.com/paigeshin/node_js_graphql_template)
+
+[Max Node Classic Server Template](https://github.com/paigeshin/my_classic_node_server_template)
+
+[Max Websocket Template](https://github.com/paigeshin/my_classic_node_server_template)
+
+[Max Basic Rest API](https://github.com/paigeshin/BASIC_NODE_REST_API)
+
+[Max Rest API ASYNC ASAWIT BASED](https://github.com/paigeshin/REST_API_NODE_ASYNC_AWAIT)
+
+[Max Rest API Template PROMISE BASED](https://github.com/paigeshin/MY_REST_API_TEMPLATE)
 
 # Modules
 
