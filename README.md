@@ -62,6 +62,8 @@
 
 # Template
 
+[Typescript - node](https://www.notion.so/Typescript-node-762dc6a193b7424eb8769917ba83f489)
+
 [Classic Node Server](https://github.com/paigeshin/my_classic_node_server_template)
 
 [REST API Server Template, using only promises](https://github.com/paigeshin/MY_REST_API_TEMPLATE)
