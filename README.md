@@ -621,3 +621,83 @@
 # Firestore
 
 [Firestore Rules](https://www.notion.so/Firestore-Rules-445fd4e4fd8445299743783f2e164337)
+
+
+
+# Basic Performance Improvement
+
+[Node Internals](https://www.notion.so/Node-Internals-d18e3c292248450c9aa303eca6f30c26)
+
+[Thread ](https://www.notion.so/Thread-9c4cd883f42a4f5cbc10f8d10564369e)
+
+[Node Event Loop and Thread ](https://www.notion.so/Node-Event-Loop-and-Thread-5d22f65528144cd1a7917df89fb51cfe)
+
+[Crazy Node Behavior](https://www.notion.so/Crazy-Node-Behavior-6f6e3937d2134fffbfd61a97f3c80504)
+
+[Clustering ](https://www.notion.so/Clustering-effa6241ef5b4d449dcd33962c752dcf)
+
+[Benchmark](https://www.notion.so/Benchmark-c6fcd3b7eea644f69f8aa758d04f1fbd)
+
+[PM2](https://www.notion.so/PM2-7af7670e73614d709d8b71edcf3060bc)
+
+[Worker Thread](https://www.notion.so/Worker-Thread-1efb57b34db94180a99e6bbb19a77781)
+
+# Redis
+
+[Project Setup for performant Server Roadmap ](https://www.notion.so/Project-Setup-for-performant-Server-Roadmap-bdc97edd0a354bd090f4e866b773e0ea)
+
+[Query Caching Layer](https://www.notion.so/Query-Caching-Layer-cc0789656a64443c83841351e5ce2686)
+
+[Redis Installation ](https://www.notion.so/Redis-Installation-e4059d4f66bf4fd8bb81544ef687a6b0)
+
+[Store value on Redis & Hash Key ](https://www.notion.so/Store-value-on-Redis-Hash-Key-ec0d61dfe95443b88a32fba9d24231b1)
+
+[Promisifying a Function](https://www.notion.so/Promisifying-a-Function-ee6d92f51d53440d94bed1f57a1a60f7)
+
+[Correct way to implement redis](https://www.notion.so/Correct-way-to-implement-redis-92800f5cfb164c09a792cc3fe3d9935e)
+
+[Mongoose Query Example](https://www.notion.so/Mongoose-Query-Example-fc921464e9964171beb99039c2470b3d)
+
+[Override Mongoose query function, map key ](https://www.notion.so/Override-Mongoose-query-function-map-key-cf2b4d1bc5a1412eb407a452e6b729a3)
+
+[Redis Model vs Mongoose Model](https://www.notion.so/Redis-Model-vs-Mongoose-Model-93a5f28dd6734e0aa71e3ab48b6f00e4)
+
+[When you want to override function with prototype](https://www.notion.so/When-you-want-to-override-function-with-prototype-5e378dfb9570495e8bc3ee8b7ebe4c55)
+
+[Reusable redis caching extension ](https://www.notion.so/Reusable-redis-caching-extension-c5e4242463b1446683d4d555bcc31572)
+
+[Complete redis implementation ](https://www.notion.so/Complete-redis-implementation-de3c1946a1544d38bcaada6fd33715ad)
+
+# Javascript API
+
+[Object.assign](https://www.notion.so/Object-assign-9e0a3f7f916a41d7ad25dde99a04058a)
+
+# Continuous Integration
+
+[What is CI?](https://www.notion.so/What-is-CI-9767288961c1495d8f929d169ae84999)
+
+[CI Providers](https://www.notion.so/CI-Providers-df3a8f1c22f249dc9657eec886f55e94)
+
+[Implement travis on git ](https://www.notion.so/Implement-travis-on-git-aeb8901e8ba34c838055d7246162cd68)
+
+[Create Travis.yaml ](https://www.notion.so/Create-Travis-yaml-07961038e2f24f6188c0eb9bb85556ea)
+
+[dev vs CI](https://www.notion.so/dev-vs-CI-be9f62d9a90c4641b48e287ae0a18e28)
+
+[Configure CI](https://www.notion.so/Configure-CI-3a88652f3f9a497b87ca18be242fa8ef)
+
+[git repo setup](https://www.notion.so/git-repo-setup-e80994259aae4372be0b031ef5265e68)
+
+# Scalable Image Uploads
+
+[Big Image upload Issues](https://www.notion.so/Big-Image-upload-Issues-4f4cbc2921404c8f88b785dbf2a417f1)
+
+[Upload Flow with AWS S3](https://www.notion.so/Upload-Flow-with-AWS-S3-03d56f44fe1a4b889029bdb5a1258402)
+
+[S3 code implementation - Client](https://www.notion.so/S3-code-implementation-Client-273a0c5ecd274fce8cbffc1cd6f399f3)
+
+[AWS Part](https://www.notion.so/AWS-Part-e40653d6726941e99a433538606ad05b)
+
+[file-upload, Server](https://www.notion.so/file-upload-Server-27afd1391e814c8ab08e7de531e6172d)
+
+⇒ Find S3 configuration elsewhere.
