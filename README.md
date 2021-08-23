@@ -70,6 +70,10 @@
 
 [Handle Async Error ](https://www.notion.so/Handle-Async-Error-50d06c68882042a7a351afc6cb939c94)
 
+# Typescript - hashin password and prehooks
+
+[Typescript Password Module](https://www.notion.so/Typescript-Password-Module-1fe5da7cc5be4632b5015444a982b98c)
+
 # Typescript - Mongoose Model
 
 [Define UserSchema with TS](https://www.notion.so/Define-UserSchema-with-TS-a057a7632b174edd89d11422e6bf15be)
