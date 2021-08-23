@@ -64,6 +64,12 @@
 
 [CI & CD using travis](https://github.com/paigeshin/node_ci)
 
+# Typescript - Advanced Error Handling
+
+[Advanced Error Handling](https://www.notion.so/Advanced-Error-Handling-dc3a41bb406b408d831657f354cf29b1)
+
+[Handle Async Error ](https://www.notion.so/Handle-Async-Error-50d06c68882042a7a351afc6cb939c94)
+
 # Template
 
 [Typescript - node](https://www.notion.so/Typescript-node-762dc6a193b7424eb8769917ba83f489)
