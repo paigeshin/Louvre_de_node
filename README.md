@@ -70,6 +70,10 @@
 
 [Handle Async Error ](https://www.notion.so/Handle-Async-Error-50d06c68882042a7a351afc6cb939c94)
 
+# Typescript - Mongoose Model
+
+[Define UserSchema with TS](https://www.notion.so/Define-UserSchema-with-TS-a057a7632b174edd89d11422e6bf15be)
+
 # Template
 
 [Typescript - node](https://www.notion.so/Typescript-node-762dc6a193b7424eb8769917ba83f489)
