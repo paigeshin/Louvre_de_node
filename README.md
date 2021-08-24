@@ -64,23 +64,29 @@
 
 [CI & CD using travis](https://github.com/paigeshin/node_ci)
 
-# Typescript - Advanced Error Handling
+# Tyepscript - Node.js 
+
+### Typescript - Advanced Error Handling
 
 [Advanced Error Handling](https://www.notion.so/Advanced-Error-Handling-dc3a41bb406b408d831657f354cf29b1)
 
 [Handle Async Error ](https://www.notion.so/Handle-Async-Error-50d06c68882042a7a351afc6cb939c94)
 
-# Typescript - hashing password and prehooks
+### Typescript - hashing password and prehooks
 
 [Typescript Password Module](https://www.notion.so/Typescript-Password-Module-1fe5da7cc5be4632b5015444a982b98c)
 
-# Typescript - node test 
+### Typescript - node test 
 
 [Typescript - Node.js Test ](https://www.notion.so/Typescript-Node-js-Test-43198b60c93b47348263ca7e63c0670a)
 
-# Typescript - Mongoose Model
+### Typescript - Mongoose Model
 
 [Define UserSchema with TS](https://www.notion.so/Define-UserSchema-with-TS-a057a7632b174edd89d11422e6bf15be)
+
+### Typescript & Javascript, How to publish npm module
+
+[Publish NPM Modules](https://www.notion.so/Publish-NPM-Modules-50c9544656d2479fb68f952c0a575a8e)
 
 # Template
 
