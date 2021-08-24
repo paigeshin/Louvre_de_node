@@ -88,6 +88,8 @@
 
 [Publish NPM Modules](https://www.notion.so/Publish-NPM-Modules-50c9544656d2479fb68f952c0a575a8e)
 
+[Publish NPM Module, git](https://github.com/paigeshin/how_to_create_npm_module)
+
 # Template
 
 [Typescript - node](https://www.notion.so/Typescript-node-762dc6a193b7424eb8769917ba83f489)
