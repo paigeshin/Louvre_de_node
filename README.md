@@ -66,6 +66,10 @@
 
 # Tyepscript - Node.js 
 
+### Typescript CRUD
+
+[Typescript - node - mongoose CRUD example ](https://www.notion.so/Typescript-node-mongoose-CRUD-example-7ea570d4ebc04b62bae0e2b023e7898f)
+
 ### Typescript - Advanced Error Handling
 
 [Advanced Error Handling](https://www.notion.so/Advanced-Error-Handling-dc3a41bb406b408d831657f354cf29b1)
