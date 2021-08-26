@@ -653,7 +653,6 @@
 [Firestore Rules](https://www.notion.so/Firestore-Rules-445fd4e4fd8445299743783f2e164337)
 
 
-
 # Basic Performance Improvement
 
 [Node Internals](https://www.notion.so/Node-Internals-d18e3c292248450c9aa303eca6f30c26)
