@@ -152,6 +152,34 @@
 
 [https://github.com/paigeshin/Swift-Node-MultiPart-Form-Example](https://github.com/paigeshin/Swift-Node-MultiPart-Form-Example)
 
+# S3 File Upload
+
+[S3 File Upload](https://github.com/paigeshin/s3_file_upload)
+
+[React Node File Upload](https://github.com/paigeshin/react-node-ts-fileupload)
+
+[React - Node & typescript, file upload](https://www.notion.so/React-Node-typescript-file-upload-c264febcf45e44688b2c185526c321b2)
+
+[node aws](https://www.notion.so/node-aws-29aecf6e1f4c41d282c9994685bd7f67)
+
+[File Upload S3, upload → signed URL](https://www.notion.so/File-Upload-S3-upload-signed-URL-1ff37bc82fef479881c1118650fd28a6)
+
+[File Upload, UploadURL ⇒ Upload ](https://www.notion.so/File-Upload-UploadURL-Upload-d23b2ee06f80422f9fbf288f3940f65d)
+
+[React - Node & typescript, file upload](https://www.notion.so/React-Node-typescript-file-upload-c264febcf45e44688b2c185526c321b2)
+
+# Refresh Token & Access Token
+
+[access & refresh token ](https://www.notion.so/access-refresh-token-c676af1c9a9b4be9b77fd18f18d8feca)
+
+# Configure Environment Variables
+
+[.env configuration node.js & typescript](https://www.notion.so/env-configuration-node-js-typescript-1e75af7132a14428ae68073eabc842b6)
+
+# Architecture
+
+[node clean architecture](https://www.notion.so/node-clean-architecture-64624e88e9694ecda39410b98c7fc149)
+
 # Backend
 
 [ajax, fetch without query](https://www.notion.so/Ajax-fetch-without-jquery-7f77e109ab8c4f70a86f6a30ad2b18f8)
