@@ -154,6 +154,14 @@
 
 # S3 File Upload
 
+[https://github.com/paigeshin/react-easy-cropper-file-upload-s3-multers3](https://github.com/paigeshin/react-easy-cropper-file-upload-s3-multers3)
+
+[React Image Cropper, S3 Upload, Basic](https://www.notion.so/React-Image-Cropper-S3-Upload-Basic-e2b6a2e73308419eb86cc162f1be05c7)
+
+[React - Node, Multer S3, Image Cropper - FileUpload](https://www.notion.so/React-Node-Multer-S3-Image-Cropper-FileUpload-484e1354313a4333a9c742d7c2c0ed72)
+
+[Upload Image with S3 Signed URL from Clinet](https://www.notion.so/Upload-Image-with-S3-Signed-URL-from-Clinet-a069d0c437fd4b6795b1ec25194fdec4)
+
 [S3 File Upload](https://github.com/paigeshin/s3_file_upload)
 
 [React Node File Upload](https://github.com/paigeshin/react-node-ts-fileupload)
@@ -700,6 +708,8 @@
 [Worker Thread](https://www.notion.so/Worker-Thread-1efb57b34db94180a99e6bbb19a77781)
 
 # Redis
+
+[Mongoose Redis Extension](https://www.notion.so/Mongoose-Redis-Extension-bc252dca502c485ca3a085238d9da5d1)
 
 [Project Setup for performant Server Roadmap ](https://www.notion.so/Project-Setup-for-performant-Server-Roadmap-bdc97edd0a354bd090f4e866b773e0ea)
 
