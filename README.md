@@ -35,6 +35,8 @@
 
 [Manual Typescript Configuration](https://www.notion.so/ts-configuration-6f00bd6cd58e48e69ba9b68527242b0e)
 
+- OR just use npm module, ts-node packages
+
 # NPM
 
 [npm & Node as a Build Tool](https://www.notion.so/npm-Node-as-a-Build-Tool-614b1b7ea2e14130bb634caa0ee95a98)
