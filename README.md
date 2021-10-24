@@ -41,6 +41,8 @@
 
 [npm & Node as a Build Tool](https://www.notion.so/npm-Node-as-a-Build-Tool-614b1b7ea2e14130bb634caa0ee95a98)
 
+[Create your own library](https://github.com/paigeshin/publish-npm-library-simplified)
+
 # Preparing the code for Production (Checklist)
 
 ### Use Environment Variables
