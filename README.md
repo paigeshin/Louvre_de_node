@@ -311,12 +311,21 @@
 
 [504 Error app engine, node](https://www.notion.so/504-Error-app-engine-node-d9a26796b6744752a19eecebfd05eb61)
 
+# Math
+
+[average, variance, standard deviation](https://www.notion.so/average-variance-standard-deviation-70b886830cc7419cac3b1123a3c1dab2)
 
 # Lectures
 
 [Node Complete Guide](https://www.notion.so/NodeJS-The-Complete-Guide-d347014dbbc847199d4ec4a60a700856)
 
 # Grammar
+
+[average, variance, standard deviation](https://www.notion.so/average-variance-standard-deviation-70b886830cc7419cac3b1123a3c1dab2)
+
+[array with object, reduce](https://www.notion.so/array-with-object-reduce-72c8e01353b94b05a929bbdbb3cc08dd)
+
+[Read CSV Synchronously](https://www.notion.so/Read-CSV-Synchronously-50a334e024e443a89579bab8941afce9)
 
 [javascript - Call async/await functions in parallel - Stack Overflow](https://stackoverflow.com/questions/35612428/call-async-await-functions-in-parallel)
 
@@ -337,6 +346,8 @@
 [Web Socket - github](https://github.com/paigeshin/websocket_node_rest_api_template)
 
 # File
+
+[Read CSV Synchronously](https://www.notion.so/Read-CSV-Synchronously-50a334e024e443a89579bab8941afce9)
 
 [Delete local file, node.js](https://www.notion.so/delete-local-file-node-js-34eabd48e95f4f878ea228d2a06ea1f9)
 
