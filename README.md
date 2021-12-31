@@ -102,6 +102,16 @@
 
 [Publish NPM Module, git](https://github.com/paigeshin/how_to_create_npm_module)
 
+# TDD
+
+[JEST Super Basic](https://www.notion.so/JEST-Super-Basic-baf3fffce5f741bd84a8c587ea72b995)
+
+[JEST Tutorial](https://www.notion.so/JEST-Tutorial-ec477835edfc4c41930942150414798e)
+
+https://github.com/paigeshin/tdd-node-scraper
+
+https://github.com/paigeshin/jest_tutorial
+
 # Template
 
 [Typescript - node](https://www.notion.so/Typescript-node-762dc6a193b7424eb8769917ba83f489)
