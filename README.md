@@ -102,6 +102,20 @@
 
 [Publish NPM Module, git](https://github.com/paigeshin/how_to_create_npm_module)
 
+# NEST JS 
+
+[NestJS Small Project, Introduction of CLI ](https://www.notion.so/NestJS-Small-Project-Introduction-of-CLI-07a8eeb491c7441ebead36c172cebcb7)
+
+[DI Project](https://www.notion.so/DI-Project-95e84c3662b24427b16f5602a6884089)
+
+[NestJS Template Car Pricing API App](https://www.notion.so/NestJS-Template-Car-Pricing-API-App-603f79417576435ab3e55bbbb0de8fb3)
+
+[NestJS Template Part2, Testing & TypeORM ](https://www.notion.so/NestJS-Template-Part2-Testing-TypeORM-fd660f5df8c54baf96f3d1594d9162b0)
+
+[NestJS Template Part3, Prepare for Deployment ](https://www.notion.so/NestJS-Template-Part3-Prepare-for-Deployment-f4ca0cf479c243fcb18450bc6dd18761)
+
+[How to use REST Client (vsCode extension)](https://www.notion.so/How-to-use-REST-Client-vsCode-extension-da43b5a702214d2eac45b547e528f334)
+
 # TDD
 
 [JEST Super Basic](https://www.notion.so/JEST-Super-Basic-baf3fffce5f741bd84a8c587ea72b995)
