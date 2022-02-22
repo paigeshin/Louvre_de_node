@@ -531,7 +531,35 @@ https://github.com/paigeshin/jest_tutorial
 
 [Facebook crawling using their own glitch on git](https://github.com/paigeshin/node_webscraping_facebook)
 
+# Nest JS
 
+[NestJS Manually Setup](https://github.com/paigeshin/nestjs_manual_setup)
+
+[NestJS Base Project](https://www.notion.so/NestJS-Small-Project-Introduction-of-CLI-07a8eeb491c7441ebead36c172cebcb7)
+
+[NestJS DI](https://github.com/paigeshin/nestjs_di_project)
+
+[REST API 설계](https://meetup.toast.com/posts/92)
+
+# Cognito
+
+[Node.js를 통하여 Cognito User Pool 인증받기](https://m.blog.naver.com/oksk0302/220986019426)
+
+[How to setup aws cognito authentication with serverless-and-node.js](https://www.freecodecamp.org/news/aws-cognito-authentication-with-serverless-and-nodejs/amp/)
+
+[How to refresh the idtoken using refresehtoken value in aws cognito](https://stackoverflow.com/questions/44107689/how-to-refresh-the-idtoken-using-refreshtoken-value-in-aws-cognito)
+
+[Sample Code - how to refresh session of Cognito User Pool](https://gist.github.com/kndt84/5be8e86a15468ed1c8fc3699429003ad)
+
+[Sample Code - How to refresh session of Cognito User Pool](https://gist.github.com/paigeshin/92a35fc39eac28b816013114dea554f9)
+
+[How to get Cognito identityId in AWS Lambda Functions](https://bobbyhadz.com/blog/aws-cognito-identity-id-lambda)
+
+[User Authentication signup login on aws with lambda cognito or iam](https://stackoverflow.com/questions/34858559/user-authentication-signup-login-on-aws-with-lambda-cognito-or-iam)
+
+[aws-cognito-amplify vs amazon-cognito identity-js vs aws-sdk](https://www.maxivanov.io/aws-cognito-amplify-vs-amazon-cognito-identity-js-vs-aws-sdk/)
+
+[Cognito User Pool how to refresh access token using refresh token](https://stackoverflow.com/questions/37442973/cognito-user-pool-how-to-refresh-access-token-using-refresh-token)
 
 # Push Mesasge - APN 
 
